@@ -1,32 +1,32 @@
 {
 "recipes":[{
 "name" : "Really Good Cheeseburger",
-"image" : "https://dam.tgifridays.com/content/dam/images/eat/20024.jpg"
+"image" : "https://dam.tgifridays.com/content/dam/images/eat/20024.jpg",
 "price" : "9.99$"
 },
 {
 "name" : "Cheeseburger",
-"image" : "https://dam.tgifridays.com/content/dam/images/eat/20025.jpg"
+"image" : "https://dam.tgifridays.com/content/dam/images/eat/20025.jpg",
 "price" : "9.99$"
 },
 {
 "name" : "Chilli Burger",
-"image" : "https://dam.tgifridays.com/content/dam/images/eat/20026.jpg"
+"image" : "https://dam.tgifridays.com/content/dam/images/eat/20026.jpg",
 "price" : "9.99$"
 },
 {
 "name" : "Wow Burger",
-"image" : "https://dam.tgifridays.com/content/dam/images/eat/20040.jpg"
+"image" : "https://dam.tgifridays.com/content/dam/images/eat/20040.jpg",
 "price" : "9.99$"
 },
 {
 "name" : "Monster Burger",
-"image" : "https://dam.tgifridays.com/content/dam/images/eat/20040.jpg"
+"image" : "https://dam.tgifridays.com/content/dam/images/eat/20040.jpg",
 "price" : "9.99$"
 },
 {
 "name" : "Ohh, Ohh, Burger!",
-"image" : "https://dam.tgifridays.com/content/dam/images/eat/20024.jpg"
+"image" : "https://dam.tgifridays.com/content/dam/images/eat/20024.jpg",
 "price" : "9.99$"
 }
 ]}
